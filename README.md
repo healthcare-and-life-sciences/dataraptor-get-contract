@@ -1,3 +1,4 @@
+![](images/ahlsbanner.png)
 <h1 id='RbXACA01blL'>A-HLS - DataRaptor Library Documentation - DRgetContract</h1>
 
 <i>This DataRaptor acts as a base for developers to get information about a Contract.</i><br/>
